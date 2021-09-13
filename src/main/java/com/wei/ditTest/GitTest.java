@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello git6 master添加");
         System.out.println("hello git7 fz2添加");
         System.out.println("hello git8 push test");
+         System.out.println("hello git9 pull test");
     }
 }
